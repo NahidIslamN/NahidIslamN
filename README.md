@@ -18,10 +18,12 @@ I'm a passionate **Software Developer** specializing in **Backend Development**,
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Frameworks & Backend**
 ![Django REST](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -48,6 +50,6 @@ I'm a passionate **Software Developer** specializing in **Backend Development**,
 
 ---
 
-💬 **Ask me about:** Backend Development, REST APIs, FastAPI, Django, Cloud Infrastructure, System Design, and Data Processing.
+💬 **Ask me about:** Backend Development, REST APIs, FastAPI, Django, Flutter, Dart, Cloud Infrastructure, System Design, and Data Processing.
 
 ⚡ **Fun Fact:** I love solving complex problems and optimizing systems for better performance!
