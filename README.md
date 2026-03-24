@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Nahid Islam
 
 I'm a passionate **Software Developer** specializing in **Backend Development**, **System Design**, and **Cloud Solutions**. I enjoy building scalable, efficient, and reliable systems, and constantly learning new technologies to stay ahead in the tech world.  
+
 ---
 
 ## 🌐 Connect with Me
@@ -12,11 +13,13 @@ I'm a passionate **Software Developer** specializing in **Backend Development**,
 ## 💻 Core Skills & Tech Stack
 
 ### **Programming Languages**
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frameworks & Backend**
 ![Django REST](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
