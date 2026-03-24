@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Nahid Islam
 
 I'm a passionate **Software Developer** specializing in **Backend Development**, **System Design**, and **Cloud Solutions**. I enjoy building scalable, efficient, and reliable systems, and constantly learning new technologies to stay ahead in the tech world.  
-
 ---
 
 ## 🌐 Connect with Me
